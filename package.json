@@ -1,14 +1,12 @@
 {
-  "name": "session-auth",
+  "name": "express-session-auth",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demo project to learn basic Express session-based authentication",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Roshen Nair",
   "dependencies": {
     "express": "^4.17.1",
     "express-session": "^1.17.2"
